@@ -35,7 +35,7 @@
     * 위 cmd 그대로 입력해주세요
 9. https://github.com/cofocofo/cofocofo 링크로 cofocofo Repo 로 이동합니다
 10. 화면 정중앙의 Compare & Pull Request 버튼을 눌러주세요
-11. Pull Request 메시지는 \<YYYY\>\<MM\>\<DD\> daily_boj --- <문제번호> / <문제이름> --- <한글이름> 으로 입력해주세요!
+11. Pull Request 메시지는 \<YYYY\>/\<MM\>/\<DD\> daily_boj --- <문제번호> / <문제이름> --- <한글이름> 으로 입력해주세요!
 12. Pull Request 가 올라가는 것을 확인하면 성공!
 
 ### Feedback
