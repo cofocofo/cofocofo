@@ -18,7 +18,7 @@
 2. git checkout -b <branch_name>
    * 원하시는 이름으로 main branch 에서 원하시는 이름으로새 branch 를 만들어주세요!
    * 영어로 해주시기를 바랍니다 (한글로 하면 아마 에러가 뜰겁니다 ㅠ)
-3. git merge main
+3. git merge main & git push
    * 최신 상태로 갱신해줍니다 ;)
 4. daily_boj/M<월>/D<일> 에 오늘의 문제 관련 코드를 올려주시면 됩니다
    * ex) daily_boj/M9/D6
