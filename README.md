@@ -1,4 +1,4 @@
-# cofocofo
+`# cofocofo
 
 ## Member 
 
@@ -26,6 +26,7 @@
    * 원하시는 이름으로 main branch 에서 원하시는 이름으로새 branch 를 만들어주세요!
    * 영어로 해주시기를 바랍니다 (한글로 하면 아마 에러가 뜰겁니다 ㅠ)
    * 이미, 만드신 branch 가 있다면 '-b' 옵션은 빼주세요!
+   * **꼭 현재 branch 가 자신의 branch 인지 확인해주세요**
 3. git merge main & git push
    * 본인 branch 를 main branch 에 맞추어 최신 상태로 갱신해줍니다 ;)
 4. weekly_codeforces 디렉토리에서 해당 Codeforces Round 를 찾아주세요!
@@ -39,6 +40,7 @@
 7. git commit -m "<커밋메시지>"
     * staging 하신 후 commit 해주세요
     * 메세지 형식은 자유롭게 해주세요 ;)
+    * 아니면, 아래 PR 의 형식을 따르셔도 좋습니다 ㅎㅎ
 8. git push
     * 처음에는 git push --set-up-stream origin <branch_name> 이라고 나올텐데
     * 위 cmd 그대로 입력해주세요
@@ -46,7 +48,7 @@
 9. https://github.com/cofocofo/cofocofo 링크로 cofocofo Repo 로 이동합니다
 10. 화면 정중앙의 Compare & Pull Request 버튼을 눌러주세요
     * 저희 본인의 branch 에서 새롭게 push 하면 위와 같은 버튼이 생깁니다!
-11. Pull Request 메시지는 \<YYYY\>/\<MM\>/\<DD\> <코드포스 라운드 이름> ---  <한글이름> 으로 입력해주세요!
+11. Pull Request(PR) 메시지는 \<YYYY\>/\<MM\>/\<DD\> <코드포스 라운드 이름> ---  <한글이름> 으로 입력해주세요!
     * ex) 2021/09/26 Codeforces Round #734 (Div. 3) --- 김홍균
 12. Pull Request 가 올라가는 것을 확인하면 성공!
     * GitHub Repo 에서 Pull requests 탭을 누르면 본인의 PR 확인 가능합니다!
@@ -57,6 +59,7 @@
 2. 피드백을 시작해주세요.
    * 직설적이고 깐깐할수록 서로간의 실력이 향상됩니다
    * 정중하되 뼈를 때리는 조언으로 서로의 실력을 높여주세요!
+3. 각 PR 마다 3분 이상에게 피드백을 받지 못하면 merge 가 불가능하니 다들 꼭꼭 피드백해주세요!!!
 
 ### Git Tutorial
 
