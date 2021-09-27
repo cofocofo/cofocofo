@@ -3,27 +3,31 @@
 ## Member 
 
 * 구미 6반 우지현
+* 구미 6반 김민수
+* 구미 6반 이유진
 * 서울 1반 한승주
 * 서울 10반 이민동
 * 서울 10반 김홍균
 * ~~서울 10반 하늘이~~
+
 ## Log
 
 * 2021/09/19
   * Codeforces Round #739 (Div. 3)
+* 20201/09/26
+  * Codeforces Round #734 (Div. 3)
 
-## Daily BOJ
+## Code Submit
 
-### Submit
-
-0. Git CLI 를 사용합니다
+0. Git CLI 를 사용합니다.
 1. git clone https://github.com/cofocofo/cofocofo.git
    * 먼저, cofocofo Repo 를 clone 해주세요!
 2. git checkout -b <branch_name>
    * 원하시는 이름으로 main branch 에서 원하시는 이름으로새 branch 를 만들어주세요!
    * 영어로 해주시기를 바랍니다 (한글로 하면 아마 에러가 뜰겁니다 ㅠ)
+   * 이미, 만드신 branch 가 있다면 '-b' 옵션은 빼주세요!
 3. git merge main & git push
-   * 최신 상태로 갱신해줍니다 ;)
+   * 본인 branch 를 main branch 에 맞추어 최신 상태로 갱신해줍니다 ;)
 4. daily_boj/M<월>/D<일> 에 오늘의 문제 관련 코드를 올려주시면 됩니다
    * ex) daily_boj/M9/D6
 5. 파일이름은 <문제번호>_<문제이름>_<한글이름> 으로 해주세요
