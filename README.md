@@ -28,23 +28,28 @@
    * 이미, 만드신 branch 가 있다면 '-b' 옵션은 빼주세요!
 3. git merge main & git push
    * 본인 branch 를 main branch 에 맞추어 최신 상태로 갱신해줍니다 ;)
-4. daily_boj/M<월>/D<일> 에 오늘의 문제 관련 코드를 올려주시면 됩니다
-   * ex) daily_boj/M9/D6
-5. 파일이름은 <문제번호>_<문제이름>_<한글이름> 으로 해주세요
-   * ex) 20207_달력_김홍균.cpp
-   * ex) 20207_달력_김홍균.java
-   * ex) 20207_달력_김홍균.py
+4. weekly_codeforces 디렉토리에서 해당 Codeforces Round 를 찾아주세요!
+   * ex) weekly_codeforces/M9/D9 - Codeforces Round #739 (Div. 3)
+5. 파일이름은 <대회 내 문제번호(A, B, C, ...)>_<한글이름> 으로 해주세요.
+   * ex) A_김홍균.cpp
+   * ex) B1_김홍균.java
+   * ex) C_김홍균.py
 6. git add .
    * 파일 작성을 모두 마치셨다면 위 cmd 를 통해 staging 해주세요!
 7. git commit -m "<커밋메시지>"
     * staging 하신 후 commit 해주세요
+    * 메세지 형식은 자유롭게 해주세요 ;)
 8. git push
     * 처음에는 git push --set-up-stream origin <branch_name> 이라고 나올텐데
     * 위 cmd 그대로 입력해주세요
+    * 저는 branch 이름이 'gglifer' 이므로 <branch_name> 에 gglifer 를 입력했습니다!
 9. https://github.com/cofocofo/cofocofo 링크로 cofocofo Repo 로 이동합니다
 10. 화면 정중앙의 Compare & Pull Request 버튼을 눌러주세요
-11. Pull Request 메시지는 \<YYYY\>/\<MM\>/\<DD\> daily_boj --- <문제번호> / <문제이름> --- <한글이름> 으로 입력해주세요!
+    * 저희 본인의 branch 에서 새롭게 push 하면 위와 같은 버튼이 생깁니다!
+11. Pull Request 메시지는 \<YYYY\>/\<MM\>/\<DD\> <코드포스 라운드 이름> ---  <한글이름> 으로 입력해주세요!
+    * ex) 2021/09/26 Codeforces Round #734 (Div. 3) --- 김홍균
 12. Pull Request 가 올라가는 것을 확인하면 성공!
+    * GitHub Repo 에서 Pull requests 탭을 누르면 본인의 PR 확인 가능합니다!
 
 ### Feedback
 
