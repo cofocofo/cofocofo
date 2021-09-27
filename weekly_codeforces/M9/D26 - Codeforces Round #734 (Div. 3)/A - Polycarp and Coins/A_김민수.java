@@ -1,9 +1,7 @@
-package cofocofo;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class PolycarpAndCoins {
+public class A_김민수 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int T = Integer.parseInt(br.readLine());
