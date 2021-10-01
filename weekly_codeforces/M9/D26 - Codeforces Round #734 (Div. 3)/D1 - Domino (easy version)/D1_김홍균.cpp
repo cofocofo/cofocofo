@@ -33,12 +33,15 @@ int main()
         cin >> N >> M >> K;
 
         // Process
-        int H = K;
-        int V = (N*M)/2 - H;
+        int H = K; /* n(Horizontal Domino) */
+        int V = (N*M)/2 - H; /* n(Vertical Domino) */
 
         int o, x;
         bool isPossible = true;
         if (N%2 == 1 && M%2 == 0) {
+            /* o x o x
+             * o x o x
+             * o x o x */
             o = (N*M) / 2;
             x = (N*M) / 2;
             o -= K;
@@ -47,6 +50,9 @@ int main()
                 isPossible = false;
             }
 
+            /* o o o o
+             * x x x x
+             * o o o o */
             o = (N/2+1) * M;
             x = (N/2) * M;
             o -= V;
@@ -55,6 +61,10 @@ int main()
                 isPossible = false;
             }
         } else if (N%2 == 0 && M%2 == 1) {
+            /* o x o x o
+             * o x o x o
+             * o x o x o
+             * o x o x o */
             o = (M/2+1) * N;
             x = (M/2) * N;
             o -= K;
@@ -63,6 +73,10 @@ int main()
                 isPossible = false;
             }
 
+            /* o o o o o
+             * x x x x x
+             * o o o o o
+             * x x x x x */
             o = (N*M) / 2;
             x = (N*M) / 2;
             o -= V;
@@ -71,6 +85,14 @@ int main()
                 isPossible = false;
             }
         } else if (N%2 == 0 && M%2 == 0) {
+            /* o x o x
+             * o x o x
+             * o x o x
+             * o x o x */
+            /* o o o o
+             * x x x x
+             * o o o o
+             * x x x x */
             o = (N*M) / 2;
             x = (N*M) / 2;
             o -= K;
@@ -87,14 +109,3 @@ int main()
 
 // Helper Functions
 /* None */
-
-// o x o
-// o x o
-// o x o
-// o x o
-
-
-// o o o
-// x x x
-// o o o
-// x x x

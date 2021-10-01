@@ -40,44 +40,52 @@ int main()
             cin >> A[i];
 
         // Process
-        map<int,int> M;
+        map<int,int> M; /* Count Frequencies */
         for (int i=0; i<N; i++) {
             M[A[i]]++;
         }
 
-        set<int> t1;
-        map<int,vector<int>> t2;
-        int cnt_1 = 0, cnt_2 = 0;
+        set<int> t1; /* Type 1
+                      *     = num with K or more frequencies
+                      */
+        map<int,vector<int>> t2; /* Type 2
+                                  *     = num with less K frequencies
+                                  *     -> save idx infos
+                                  */
+        int reds = 0, resids = 0;
         for (auto [k, v] : M) {
             if (v >= K) {
-                cnt_1++;
+                reds++;
                 t1.insert(k);
             } else {
-                cnt_2 += v;
+                resids += v;
             }
-        } cnt_2 /= K;
+        } resids /= K; /* Possible Color Count */
 
-        for (int i=0; i<N; i++) {
+        for (int i=0; i<N; i++) { /* Save Type2 num idx infos */
             if (t1.find(A[i]) == t1.end()) {
                 t2[A[i]].push_back(i);
             }
         }
 
-        int B[N];
-        memset(B, 0, sizeof(B));
+        int B[N]; /* Color Array */
+        memset(B, 0, sizeof(B)); /* Init array with no paint */
+
+        /* Paint Type2 nums */
         int color = 1;
-        for (auto [k, v] : t2) {
-            if (cnt_2 == 0) break;
+        for (auto [k, v] : t2) { /* k = num, v= Idx Array */
+            if (resids == 0) break;
             for (int idx : v) {
                 B[idx] = color++;
                 if (color > K) {
-                    cnt_2--;
+                    resids--;
+                    if (resids == 0) break;
                     color = 1;
-                    if (cnt_2 == 0) break;
                 }
             }
         }
 
+        /* Paint Type1 nums */
         for (int i=0; i<N; i++) {
             if (t1.find(A[i]) != t1.end()) {
                 if (M[A[i]] > K) {
@@ -97,16 +105,3 @@ int main()
 
 // Helper Functions
 /* None */
-
-// 3 1 4 1 5 9 2 6 5 3 5 8 9
-// 0 0 1 1 0 0 1 1 0 1 1 1 1
-// 0 0 1 1 0 1 1 1 0 1 1 1 0
-//
-
-// 3 3 1 2 3 4
-// 1 2 3 1 2 3
-
-// 1
-// 5 3
-// 1 1 1 2 2
-// 3 2 1 1 2 -> Error!

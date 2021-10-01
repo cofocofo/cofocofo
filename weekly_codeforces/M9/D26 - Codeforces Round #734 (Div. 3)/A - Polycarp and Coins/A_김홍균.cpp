@@ -32,11 +32,15 @@ int main()
         int N; cin >> N;
 
         // Process
-        int cnt_1 = N/3 + ((N%3 == 1) ? 1 : 0);
-        int cnt_2 = N/3 + ((N%3 == 2) ? 1 : 0);
+        /* N = 3x   -> ones = x,   twos = x
+         * N = 3x+1 -> ones = x+1, twos = x
+         * N = 3x+2 -> ones = x,   twos = x+1
+         */
+        int ones = N/3 + ((N%3 == 1) ? 1 : 0);
+        int twos = N/3 + ((N%3 == 2) ? 1 : 0);
 
         // Control : Output
-        cout << cnt_1 << ' ' << cnt_2 << endl;
+        cout << ones << ' ' << twos << endl;
     }
 }
 
