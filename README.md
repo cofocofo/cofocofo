@@ -1,4 +1,4 @@
-`# cofocofo
+# cofocofo
 
 ## Member 
 
@@ -13,9 +13,17 @@
 ## Log
 
 * 2021/09/19
+  * Virtual
   * Codeforces Round #739 (Div. 3)
-* 20201/09/26
+  * [Tutorials & Solutions](https://codeforces.com/blog/entry/94009)
+* 2021/09/26
+  * Virtual
   * Codeforces Round #734 (Div. 3)
+  * [Tutorials & Solutions](https://codeforces.com/blog/entry/93149)
+* 2021/09/28
+  * Real
+  * Codeforces round #744 (Div. 3)
+  * [Tutorials & Solutions](https://codeforces.com/blog/entry/95447)
 
 ## Code Submit
 
