@@ -2,28 +2,83 @@
 
 ## Member 
 
-* 구미 6반 우지현
-* 구미 6반 김민수
-* 구미 6반 이유진
-* 서울 1반 한승주
-* 서울 10반 이민동
-* 서울 10반 김홍균
-* ~~서울 10반 하늘이~~
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/wjh51333">
+                <img alt="우지현" src="https://avatars.githubusercontent.com/wjh51333" width="100" />
+            </a>
+        </td>
+        <td>구미 6반</td>
+        <td>우지현</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Stand-Alone11">
+                <img alt="김민수" src="https://avatars.githubusercontent.com/Stand-Alone11?" width="100" />
+            </a>
+        </td>
+        <td>구미 6반</td>
+        <td>김민수</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/euzl">
+                <img alt="이유진" src="https://avatars.githubusercontent.com/euzl" width="100" />
+            </a>
+        </td>
+        <td>구미 6반</td>
+        <td>이유진</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/chaselover">
+                <img alt="한승주" src="https://avatars.githubusercontent.com/chaselover" width="100" />
+            </a>
+        </td>
+        <td>서울 1반</td>
+        <td>한승주</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/mindong-lee">
+                <img alt="이민동" src="https://avatars.githubusercontent.com/mindong-lee" width="100" />
+            </a>
+        </td>
+        <td>서울 10반</td>
+        <td>이민동</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/keeprainy">
+                <img alt="김홍균" src="https://avatars.githubusercontent.com/keeprainy" width="100" />
+            </a>
+        </td>
+        <td>서울 10반</td>
+        <td>김홍균</td>
+    </tr>
+</table>
 
 ## Log
 
-* 2021/09/19
-  * Virtual
-  * Codeforces Round #739 (Div. 3)
-  * [Tutorials & Solutions](https://codeforces.com/blog/entry/94009)
-* 2021/09/26
-  * Virtual
-  * Codeforces Round #734 (Div. 3)
-  * [Tutorials & Solutions](https://codeforces.com/blog/entry/93149)
-* 2021/09/28
-  * Real
-  * Codeforces round #744 (Div. 3)
-  * [Tutorials & Solutions](https://codeforces.com/blog/entry/95447)
+* 2021/09
+  * D19
+    * Virtual
+    * Codeforces Round #739 (Div. 3)
+    * [Tutorials & Solutions](https://codeforces.com/blog/entry/94009)
+  * 2021/09/26
+    * Virtual
+    * Codeforces Round #734 (Div. 3)
+    * [Tutorials & Solutions](https://codeforces.com/blog/entry/93149)
+  * 2021/09/28
+    * Real
+    * Codeforces round #744 (Div. 3)
+    * [Tutorials & Solutions](https://codeforces.com/blog/entry/95447)
+* 2021/10
+  * D2
+    * Virtual
+    * Codeforces Round #731 (Div. 3)
+    * [Tutorials & Solutions](https://codeforces.com/blog/entry/92715)
 
 ## Code Submit
 
