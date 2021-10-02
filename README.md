@@ -4,58 +4,52 @@
 
 <table>
     <tr>
-        <td>
+        <td align="center">
             <a href="https://github.com/wjh51333">
                 <img alt="우지현" src="https://avatars.githubusercontent.com/wjh51333" width="100" />
             </a>
         </td>
-        <td>구미 6반</td>
-        <td>우지현</td>
-    </tr>
-    <tr>
-        <td>
+        <td align="center">
             <a href="https://github.com/Stand-Alone11">
                 <img alt="김민수" src="https://avatars.githubusercontent.com/Stand-Alone11?" width="100" />
             </a>
         </td>
-        <td>구미 6반</td>
-        <td>김민수</td>
-    </tr>
-    <tr>
-        <td>
+        <td align="center">
             <a href="https://github.com/euzl">
                 <img alt="이유진" src="https://avatars.githubusercontent.com/euzl" width="100" />
             </a>
         </td>
-        <td>구미 6반</td>
-        <td>이유진</td>
-    </tr>
-    <tr>
-        <td>
+        <td align="center">
             <a href="https://github.com/chaselover">
                 <img alt="한승주" src="https://avatars.githubusercontent.com/chaselover" width="100" />
             </a>
         </td>
-        <td>서울 1반</td>
-        <td>한승주</td>
-    </tr>
-    <tr>
-        <td>
+        <td align="center">
             <a href="https://github.com/mindong-lee">
                 <img alt="이민동" src="https://avatars.githubusercontent.com/mindong-lee" width="100" />
             </a>
         </td>
-        <td>서울 10반</td>
-        <td>이민동</td>
-    </tr>
-    <tr>
-        <td>
+        <td align="center">
             <a href="https://github.com/keeprainy">
                 <img alt="김홍균" src="https://avatars.githubusercontent.com/keeprainy" width="100" />
             </a>
         </td>
-        <td>서울 10반</td>
-        <td>김홍균</td>
+    </tr>
+    <tr>
+        <td align="center">구미 6반</td>
+        <td align="center">구미 6반</td>
+        <td align="center">구미 6반</td>
+        <td align="center">서울 1반</td>
+        <td align="center">서울 10반</td>
+        <td align="center">서울 10반</td>
+    </tr>
+    <tr>
+        <td align="center">우지현</td>
+        <td align="center">김민수</td>
+        <td align="center">이유진</td>
+        <td align="center">한승주</td>
+        <td align="center">이민동</td>
+        <td align="center">김홍균</td>
     </tr>
 </table>
 
