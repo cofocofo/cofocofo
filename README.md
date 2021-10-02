@@ -57,20 +57,20 @@
 
 * 2021/09
   * D19
-    * Virtual
+    * ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge&logo=codeforces)
     * Codeforces Round #739 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/94009)
   * 2021/09/26
-    * Virtual
+    * ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge&logo=codeforces)
     * Codeforces Round #734 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/93149)
   * 2021/09/28
-    * Real
+    * ![virtual](https://img.shields.io/badge/real-red?style=for-the-badge&logo=codeforces)
     * Codeforces round #744 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/95447)
 * 2021/10
   * D2
-    * Virtual
+    * ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge&logo=codeforces)
     * Codeforces Round #731 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/92715)
 
