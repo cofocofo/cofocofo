@@ -55,25 +55,34 @@
 
 ## Log
 
-* ### 2021/09
-  * ####  D19
-  
-    #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)    
+<details>
+    <summary>Past</summary>
 
-    * Codeforces Round #739 (Div. 3)
-    * [Tutorials & Solutions](https://codeforces.com/blog/entry/94009)
-  * #### D26
-    
-    #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
-    
-    * Codeforces Round #734 (Div. 3)
-    * [Tutorials & Solutions](https://codeforces.com/blog/entry/93149)
-  * #### D28
-    
-    #### ![virtual](https://img.shields.io/badge/real-red?style=for-the-badge)
-    
-    * Codeforces round #744 (Div. 3)
-    * [Tutorials & Solutions](https://codeforces.com/blog/entry/95447)
+* ### 2021/09
+    * #### D19
+
+      #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
+
+        * Codeforces Round #739 (Div. 3)
+        * [Tutorials & Solutions](https://codeforces.com/blog/entry/94009)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932934405)
+    * #### D26
+
+      #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
+
+        * Codeforces Round #734 (Div. 3)
+        * [Tutorials & Solutions](https://codeforces.com/blog/entry/93149)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932934549)
+    * #### D28
+
+      #### ![virtual](https://img.shields.io/badge/real-red?style=for-the-badge)
+
+        * Codeforces round #744 (Div. 3)
+        * [Tutorials & Solutions](https://codeforces.com/blog/entry/95447)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932934609)
+
+</details>
+
 * ### 2021/10
   * #### D2
     
@@ -81,6 +90,7 @@
     
     * Codeforces Round #731 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/92715)
+    * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932937052)
 
 ## Code Submit
 
