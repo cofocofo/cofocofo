@@ -37,8 +37,11 @@ int main()
 			}
 
 			// a 배열에 남은 sequence가 k 이하라면 answer에 추가
-			if (aIdx < n && a[aIdx] <= k) answer.push_back(a[aIdx++]);
-			else answer.push_back(b[bIdx++]); // a에 없다면 b 배열에서 sequence 추가
+			if (aIdx < n && a[aIdx] <= k) 
+				answer.push_back(a[aIdx++]);
+			// a에 없다면 b 배열에서 sequence 추가
+			else 
+				answer.push_back(b[bIdx++]); 
 
 			// 새로운 줄을 추가한 경우 전체 라인 수 증가
 			if (answer.back() == 0) k++;

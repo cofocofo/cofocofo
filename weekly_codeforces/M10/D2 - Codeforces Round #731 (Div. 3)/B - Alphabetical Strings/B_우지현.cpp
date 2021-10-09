@@ -16,7 +16,7 @@ bool alphabetical()
 	int end = idx[now];
 
 	for (int i = 0; i < s.size() - 1; i++) {
-		char next = now + 1;
+		char next = ++now;
 
 		// 다음 문자가 없거나 왼쪽, 오른쪽에 없으면 not alphabetical이므로 종료
 		if (!idx.count(next) || (idx[next] != start - 1 && idx[next] != end + 1))
@@ -25,7 +25,6 @@ bool alphabetical()
 		// 문자열의 시작과 끝 인덱스 갱신
 		start = min(start, idx[next]);
 		end = max(end, idx[next]);
-		now = next;
 	}
 	return true;
 }

@@ -1,17 +1,21 @@
 #include <iostream>
+#define fi first
+#define se second
 using namespace std;
+typedef pair<int, int> pii;
 
-pair<int, int> A, B, F;
+pii A, B, F;
+
 
 int shortestPath()
 {
-	int moves = abs(A.first - B.first) + abs(A.second - B.second); // A와 B 사이의 거리
-	if (A.first == B.first && B.first == F.first) { // A, B, F가 세로로 일직선상에 있을 때
-		if (F.second > min(A.second, B.second) && F.second < max(A.second, B.second)) // F가 A와 B 사이에 있으면
+	int moves = abs(A.fi - B.fi) + abs(A.se - B.se); // A와 B 사이의 거리
+	if (A.fi == B.fi && B.fi == F.fi) { // A, B, F가 세로로 일직선상에 있을 때
+		if (F.se > min(A.se, B.se) && F.se < max(A.se, B.se)) // F가 A와 B 사이에 있으면
 			moves += 2; // 돌아가야함
 	}
-	else if (A.second == B.second && B.second == F.second) { // A, B, F가 가로로 일직선상에 있을 때
-		if (F.first > min(A.first, B.first) && F.first < max(A.first, B.first)) // F가 A와 B 사이에 있을 때
+	else if (A.se == B.se && B.se == F.se) { // A, B, F가 가로로 일직선상에 있을 때
+		if (F.fi > min(A.fi, B.fi) && F.fi < max(A.fi, B.fi)) // F가 A와 B 사이에 있을 때
 			moves += 2; // 돌아가야함
 	}
 	return moves;
@@ -27,9 +31,9 @@ int main()
 	cin >> T;
 
 	while (T--) {
-		cin >> A.first >> A.second;
-		cin >> B.first >> B.second;
-		cin >> F.first >> F.second;
+		cin >> A.fi >> A.se;
+		cin >> B.fi >> B.se;
+		cin >> F.fi >> F.se;
 		cout << shortestPath() << "\n";
 	}
 	return 0;
