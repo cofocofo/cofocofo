@@ -10,6 +10,8 @@ struct Info {
 	Info(int l, int r, int d) : l(l), r(r), d(d) { }
 };
 
+vector<int> a;
+
 void shiftingSort(int start, int end)
 {
 	deque<int> dq;
@@ -40,7 +42,7 @@ int main()
 		int n;
 		cin >> n;
 
-		vector<int> a(n);
+		a.resize(n);
 		for (int i = 0; i < n; i++) cin >> a[i];
 
 		vector<int> b = a;
@@ -56,7 +58,7 @@ int main()
 		}
 
 		cout << infos.size() << "\n";
-		for (auto &info : infos) {
+		for (auto& info : infos) {
 			cout << info.l << " " << info.r << " " << info.d << "\n";
 		}
 	}
