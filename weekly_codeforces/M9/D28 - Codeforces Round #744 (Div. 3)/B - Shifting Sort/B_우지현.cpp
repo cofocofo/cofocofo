@@ -10,21 +10,6 @@ struct Info {
 	Info(int l, int r, int d) : l(l), r(r), d(d) { }
 };
 
-int n;
-vector<int> a;
-vector<Info> infos;
-
-int findMin(int start, int end)
-{
-	int minIdx = start;
-	for (int i = start; i < end; i++) {
-		if (a[i] < a[minIdx]) {
-			minIdx = i;
-		}
-	}
-	return minIdx;
-}
-
 void shiftingSort(int start, int end)
 {
 	deque<int> dq;
@@ -52,13 +37,18 @@ int main()
 	cin >> T;
 
 	while (T--) {
+		int n;
 		cin >> n;
 
-		a.resize(n);
+		vector<int> a(n);
 		for (int i = 0; i < n; i++) cin >> a[i];
 
+		vector<int> b = a;
+		sort(b.begin(), b.end());
+
+		vector<Info> infos;
 		for (int i = 0; i < n; i++) {
-			int idx = findMin(i, n); // i부터 n까지의 원소 중 최솟값 찾아서
+			int idx = find(a.begin() + i, a.end(), b[i]) - a.begin(); // i부터 n까지의 원소 중 최솟값 찾아서
 			if (idx > i) { // 최솟값이 현재 위치(i)보다 뒤에 있다면 shirtingSort
 				shiftingSort(i, idx);
 				infos.push_back(Info(i + 1, idx + 1, idx - i));
@@ -69,7 +59,6 @@ int main()
 		for (auto &info : infos) {
 			cout << info.l << " " << info.r << " " << info.d << "\n";
 		}
-		infos.clear();
 	}
 	return 0;
 }
