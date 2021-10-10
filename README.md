@@ -91,6 +91,14 @@
     * Codeforces Round #731 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/92715)
     * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932937052)
+    
+  * #### D11
+
+    #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
+
+    * Codeforces Round #725 (Div. 3)
+    * [Tutorials & Solutions](https://codeforces.com/blog/entry/91637)
+    * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-939500812)
 
 ## Code Submit
 
