@@ -47,7 +47,7 @@
         <td align="center">서울 1반</td>
         <td align="center">서울 10반</td>
         <td align="center">서울 10반</td>
-        <td align="center">부울경 3반></td>
+        <td align="center">부울경 3반</td>
     </tr>
     <tr>
         <td align="center">우지현</td>
