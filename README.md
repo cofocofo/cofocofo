@@ -34,6 +34,11 @@
                 <img alt="김홍균" src="https://avatars.githubusercontent.com/keeprainy" width="100" />
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/szzi">
+                <img alt="김서진" src="https://avatars.githubusercontent.com/szzi" width="100" />
+            </a>
+        </td>
     </tr>
     <tr>
         <td align="center">구미 6반</td>
@@ -42,6 +47,7 @@
         <td align="center">서울 1반</td>
         <td align="center">서울 10반</td>
         <td align="center">서울 10반</td>
+        <td align="center">부울경 3반></td>
     </tr>
     <tr>
         <td align="center">우지현</td>
@@ -50,6 +56,7 @@
         <td align="center">한승주</td>
         <td align="center">이민동</td>
         <td align="center">김홍균</td>
+        <td align="center">김서진</td>
     </tr>
 </table>
 
