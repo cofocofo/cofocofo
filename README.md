@@ -73,6 +73,7 @@
         * Codeforces Round #739 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/94009)
         * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932934405)
+
     * #### D26
 
       #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
@@ -80,6 +81,7 @@
         * Codeforces Round #734 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/93149)
         * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932934549)
+
     * #### D28
 
       #### ![virtual](https://img.shields.io/badge/real-red?style=for-the-badge)
@@ -106,6 +108,14 @@
     * Codeforces Round #725 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/91637)
     * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-939500812)
+
+  * #### D16
+
+    #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
+    
+    * Codeforces Round #719 (Div. 3)
+    * [Tutorials & Solutions](https://codeforces.com/blog/entry/90342)
+    * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-944901759)
 
 ## Code Submit
 
