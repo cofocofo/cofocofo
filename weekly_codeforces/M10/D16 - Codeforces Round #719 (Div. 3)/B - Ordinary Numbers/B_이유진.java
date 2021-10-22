@@ -44,7 +44,11 @@ public class B {
                 maxDigit = n/d;
             } else {
                 curDigit = n/d;
-                if (maxDigit > curDigit) return answer + maxDigit-1;
+                if (maxDigit < curDigit) break; // 2302인 경우 2222 통과 !
+                if (maxDigit > curDigit) {
+                    maxDigit--; // 최대숫자 하나 줄이기. 2012라면 1111까지 가능하므로
+                    break;
+                }
             }
             n %= d;
             d /= 10;
