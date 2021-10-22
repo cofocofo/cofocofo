@@ -1,6 +1,5 @@
 /**
- * Wrong answer on test 2
- * 어디가 틀린 걸까...
+ * 10/22 Accepted
  */
 
 package Round719;
