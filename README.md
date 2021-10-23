@@ -66,7 +66,7 @@
     <summary>Past</summary>
 
 * ### 2021/09
-    * #### D19
+    * #### D19(일)
 
       #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
 
@@ -74,7 +74,7 @@
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/94009)
         * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932934405)
 
-    * #### D26
+    * #### D26(일)
 
       #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
 
@@ -82,7 +82,7 @@
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/93149)
         * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932934549)
 
-    * #### D28
+    * #### D28(화)
 
       #### ![virtual](https://img.shields.io/badge/real-red?style=for-the-badge)
 
@@ -93,7 +93,7 @@
 </details>
 
 * ### 2021/10
-  * #### D2
+  * #### D2(토)
     
     #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
     
@@ -101,7 +101,7 @@
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/92715)
     * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932937052)
     
-  * #### D11
+  * #### D10(일)
 
     #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
 
@@ -109,7 +109,7 @@
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/91637)
     * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-939500812)
 
-  * #### D16
+  * #### D16(토)
 
     #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
     
