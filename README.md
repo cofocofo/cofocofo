@@ -116,6 +116,14 @@
     * Codeforces Round #719 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/90342)
     * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-944901759)
+  
+  * #### D24(일)
+
+    #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
+  
+    * Codeforces Round #713 (Div. 3)
+    * [Tutorials & Solutions](https://codeforces.com/blog/entry/89535)
+    * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-950316084)
 
 ## Code Submit
 
