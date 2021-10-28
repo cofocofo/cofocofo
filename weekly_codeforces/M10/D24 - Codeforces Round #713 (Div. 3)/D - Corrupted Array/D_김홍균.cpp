@@ -39,16 +39,23 @@ int main()
 
         // Process
         sort(B, B+(N+2));
-        ll sum_B = accumulate(B, B+(N+2), (ll)0);  // sum_A + sum_A + x
+        ll sum_B = accumulate(B, B+(N+2), (ll)0);
+        /* sum_B = sum(a_1 ~ a_n) + b_(n+1) + b_(n+2)
+         *       = 2 * sum(a_1 + a_n) + b_(n+2)
+         */
 
+        /* b_(n+1)'s index -> N or (N+1) */
         int A[N];
         bool isPossible = false;
         for (int i=0; i<N+2; i++) {
-            // if x = B[i]
+            /* if b_(n+2)'s index is i */
+            /* sum_B - B[i] = 2 * sum(a_1 + a_n) */
             if ((sum_B - B[i]) % 2 == 0) {
                 ll sum_A = (sum_B - B[i]) / 2;
 
+                /* if b_(n+1)'s index is (N+1) */
                 if (sum_A == B[N+1]) {
+                    /* b_(n+2)'s index != b_(n+1)'s index */
                     if (i == N+1) continue;
                     isPossible = true;
 
@@ -57,7 +64,9 @@ int main()
                         if (j == i || j == N+1) continue;
                         A[idx++] = B[j];
                     } break;
-                } else if (sum_A == B[N]) {
+                } /* if b_(n+1)'s index is N */
+                else if (sum_A == B[N]) {
+                    /* b_(n+2)'s index != b_(n+1)'s index */
                     if (i == N) continue;
                     isPossible = true;
 

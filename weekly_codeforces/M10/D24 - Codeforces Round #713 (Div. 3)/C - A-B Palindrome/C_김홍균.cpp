@@ -35,6 +35,10 @@ int main()
 
         // Process
         int L = (int)S.length();
+        /* RA - residual count of '0'
+         * RB - residual count of '1'
+         * RQ - residual count of '?'
+         */
         int RA = A, RB = B, RQ = 0;
         for (int i=0; i<L; i++) {
             if (S[i] == '0') RA--;
@@ -42,8 +46,14 @@ int main()
             if (S[i] == '?') RQ++;
         }
 
+        /* Check type 0
+         * length & count
+         */
         bool isPossible = (A+B == L) && (RA >= 0) && (RB >= 0) && (RA+RB == RQ);
 
+        /* Check type 1
+         * (S[i], S[j]) = ('0', '0') & ('1', '1')
+         */
         if (isPossible) {
             for (int i=0; i<L/2; i++) {
                 int j = (L-1) - i;
@@ -57,6 +67,9 @@ int main()
             }
         }
 
+        /* Check type 2
+         * (S[i], S[j]) = ('0', '?') ('?', '0') ('1', '?') ('?', '1')
+         */
         if (isPossible) {
             for (int i=0; i<L/2; i++) {
                 int j = (L-1) - i;
@@ -99,6 +112,9 @@ int main()
             }
         }
 
+        /* Check type 3
+         * (S[i], S[j]) = ('?', '?')
+         */
         if (isPossible) {
             for (int i=0; i<L/2; i++) {
                 int j = (L-1) - i;
@@ -117,6 +133,9 @@ int main()
             }
         }
 
+        /* Check type 4
+         * len(S) is odd & middle of S is '?'
+         */
         if (isPossible && (L%2 == 1)) {
             int i = L/2;
             if (S[i] == '?') {

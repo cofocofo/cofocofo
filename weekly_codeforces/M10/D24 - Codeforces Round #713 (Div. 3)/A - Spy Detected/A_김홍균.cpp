@@ -31,27 +31,20 @@ int main()
 
     for (int tc=1; tc<=TC; tc++) {
         int N; cin >> N;
-        int A[N];
-        for (int i=0; i<N; i++)
+        int A[N+1];
+        for (int i=1; i<=N; i++)
             cin >> A[i];
 
         // Process
-        set<int> S;
-        int equal_num = -1;
-        for (int i=0; i<N; i++) {
-            if (S.find(A[i]) == S.end()) {
-                S.insert(A[i]);
-            } else {
-                equal_num = A[i];
-                break;
-            }
-        }
-
         int ans = -1;
-        for (int i=0; i<N; i++) {
-            if (A[i] != equal_num) {
-                ans = i+1;
-            }
+        /* Check (A[i-2], A[i-1], A[i]) */
+        for (int i=3; i<=N; i++) {
+            int a = A[i-2], b = A[i-1], c = A[i];
+            if (a == b && b == c) continue;
+
+            if (a == b && b != c) { ans = i; break; }
+            if (a == c && a != b) { ans = i-1; break; }
+            if (b == c && a != b) { ans = i-2; break; }
         }
 
         // Control : Output

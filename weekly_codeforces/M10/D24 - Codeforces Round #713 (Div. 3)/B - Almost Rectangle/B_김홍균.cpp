@@ -44,34 +44,18 @@ int main()
         }
 
         // Process
-        auto [p1y, p1x] = P[0];
-        auto [p2y, p2x] = P[1];
+        auto [ay, ax] = P[0];
+        auto [by, bx] = P[1];
 
-        int p3y, p3x;
-        int p4y, p4x;
-        p3y = p3x = p4y = p4x = -1;
-
-        if (p1y == p2y) {
-            int y = (p1y == 0) ? 1 : p1y-1;
-            for (int x : {p1x, p2x}) {
-                G[y][x] = '*';
-            }
-        } else if (p1x == p2x) {
-            int x = (p1x == 0) ? 1 : p1x-1;
-            for (int y : {p1y, p2y}) {
-                G[y][x] = '*';
-            }
+        /* Use modular */
+        if (ay == by) {
+            int y = (ay + 1) % N;
+            G[y][ax] = G[y][bx] = '*';
+        } else if (ax == bx) {
+            int x = (ax + 1) % N;
+            G[ay][x] = G[by][x] = '*';
         } else {
-            int min_y = min(p1y, p2y);
-            int max_y = max(p1y, p2y);
-            int min_x = min(p1x, p2x);
-            int max_x = max(p1x, p2x);
-
-            for (int y : {min_y, max_y}) {
-                for (int x : {min_x, max_x}) {
-                    G[y][x] = '*';
-                }
-            }
+            G[ay][bx] = G[by][ax] = '*';
         }
 
         // Control : Output
