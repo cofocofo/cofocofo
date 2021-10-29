@@ -2,7 +2,7 @@
 
 ## Member 
 
-<table>
+<table align="center">
     <tr>
         <td align="center">
             <a href="https://github.com/wjh51333">
@@ -19,28 +19,26 @@
                 <img alt="이유진" src="https://avatars.githubusercontent.com/euzl" width="100" />
             </a>
         </td>
-        <td align="center">
-            <a href="https://github.com/chaselover">
-                <img alt="한승주" src="https://avatars.githubusercontent.com/chaselover" width="100" />
-            </a>
-        </td>
     </tr>
     <tr>
         <td align="center">구미 6반</td>
         <td align="center">구미 6반</td>
         <td align="center">구미 6반</td>
-        <td align="center">서울 1반</td>
     </tr>
     <tr>
         <td align="center">우지현</td>
         <td align="center">김민수</td>
         <td align="center">이유진</td>
-        <td align="center">한승주</td>
     </tr>
 </table>
 
-<table>
+<table align="center">
     <tr>
+        <td align="center">
+            <a href="https://github.com/chaselover">
+                <img alt="한승주" src="https://avatars.githubusercontent.com/chaselover" width="100" />
+            </a>
+        </td>
         <td align="center">
             <a href="https://github.com/mindong-lee">
                 <img alt="이민동" src="https://avatars.githubusercontent.com/mindong-lee" width="100" />
@@ -51,6 +49,21 @@
                 <img alt="김홍균" src="https://avatars.githubusercontent.com/keeprainy" width="100" />
             </a>
         </td>
+    </tr>
+    <tr>
+        <td align="center">서울 1반</td>
+        <td align="center">서울 10반</td>
+        <td align="center">서울 10반</td>
+    </tr>
+    <tr>
+        <td align="center">한승주</td>
+        <td align="center">이민동</td>
+        <td align="center">김홍균</td>
+    </tr>
+</table>
+
+<table align="center">
+    <tr>
         <td align="center">
             <a href="https://github.com/szzi">
                 <img alt="김서진" src="https://avatars.githubusercontent.com/szzi" width="100" />
@@ -61,18 +74,21 @@
                 <img alt="김승환" src="https://avatars.githubusercontent.com/Panseung" width="100" />
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/juhwankim-dev">
+                <img alt="김주환" src="https://avatars.githubusercontent.com/juhwankim-dev" width="100" />
+            </a>
+        </td>
     </tr>
     <tr>
-        <td align="center">서울 10반</td>
-        <td align="center">서울 10반</td>
         <td align="center">부울경 3반</td>
         <td align="center">광주 3반</td>
+        <td align="center">구미 6반</td>
     </tr>
     <tr>
-        <td align="center">이민동</td>
-        <td align="center">김홍균</td>
         <td align="center">김서진</td>
         <td align="center">김승환</td>
+        <td align="center">김주환</td>
     </tr>
 </table>
 
