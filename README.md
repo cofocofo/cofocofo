@@ -95,14 +95,7 @@
 ## Log
 
 <details>
-    <summary>asdf</summary>
-    <details>
-        <summary>fdsa</summary>
-    </details>
-</details>
-
-<details>
-    <summary>Past</summary>
+    <summary>2021/09</summary>
 
 * ### 2021/09
     * #### D19(일)
@@ -163,6 +156,14 @@
     * Codeforces Round #713 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/89535)
     * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-950316084)
+
+  * #### D30(토)
+
+    #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
+
+    * Codeforces Round #710 (Div. 3)
+    * [Tutorials & Solutions](https://codeforces.com/blog/entry/89007)
+    * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-955321623)
 
 ## Code Submit
 
