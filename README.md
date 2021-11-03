@@ -1,4 +1,5 @@
-# cofocofo
+
+<img alt="cofocofo_logo" src="img/cofocofo_logo.jpg" width="200" />
 
 ## Member 
 
