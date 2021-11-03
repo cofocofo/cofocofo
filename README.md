@@ -1,5 +1,7 @@
 
-<img alt="cofocofo_logo" src="img/cofocofo_logo.jpg" width="200" />
+<div align="center">
+    <img alt="cofocofo_logo" src="img/cofocofo_logo.jpg" width="360" />
+</div>
 
 ## Member 
 
