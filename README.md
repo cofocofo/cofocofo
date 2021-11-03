@@ -116,13 +116,16 @@
 
     * #### D28(화)
 
-      #### ![virtual](https://img.shields.io/badge/real-red?style=for-the-badge)
+      #### ![real](https://img.shields.io/badge/real-red?style=for-the-badge)
 
         * Codeforces round #744 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/95447)
         * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932934609)
 
 </details>
+
+<details>
+    <summary>2021/10</summary>
 
 * ### 2021/10
   * #### D2(토)
@@ -164,6 +167,17 @@
     * Codeforces Round #710 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/89007)
     * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-955321623)
+
+</details>
+
+* ### 2021/11
+    * #### D2(토)
+
+      #### ![real](https://img.shields.io/badge/real-red?style=for-the-badge)
+
+        * Codeforces Round #731 (Div. 3)
+        * [Not Opened]
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-958774181)
 
 ## Code Submit
 
