@@ -1,9 +1,8 @@
-
 <div align="center">
-    <img alt="cofocofo_logo" src="https://raw.githubusercontent.com/cofocofo/cofocofo/main/img/cofocofo_logo.jpg" width="360" />
+    <img alt="cofocofo_logo" src="https://raw.githubusercontent.com/cofocofo/cofocofo/main/img/cofocofo_logo_transparent.png" width="360" />
 </div>
 
-## Member 
+## Member
 
 <table align="center">
     <tr>
