@@ -180,7 +180,15 @@
         * Codeforces Round #731 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/96604)
         * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-958774181)
+        
+    * #### D6(토)
 
+      #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
+        
+        * Codeforces Round #702 (Div. 3)
+        * [Tutorials & Solutions](https://codeforces.com/blog/entry/87874)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-962463747)
+    
 ## Code Submit
 
 0. Git CLI 를 사용합니다.
