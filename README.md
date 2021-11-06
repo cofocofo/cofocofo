@@ -178,7 +178,7 @@
       #### ![real](https://img.shields.io/badge/real-red?style=for-the-badge)
 
         * Codeforces Round #731 (Div. 3)
-        * [Not Opened]
+        * [Tutorials & Solutions](https://codeforces.com/blog/entry/96604)
         * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-958774181)
 
 ## Code Submit
