@@ -10,4 +10,4 @@ pull_request_rules:
           - "{{author}}"
         labels:
           add:
-            - "#697"
+            - #697
