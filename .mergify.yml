@@ -1,7 +1,14 @@
 pull_request_rules:
-  - name: Automatic merge on approval
+  - name: Automatic assign & labeling
     conditions:
+      - -merged
+      - -closed
+      - base=main
       - "#approved-reviews-by>=5"
     actions:
-      merge:
-        method: merge
+      assign:
+        add_users:
+          - "{{ author }}"
+        label:
+          add:
+            - "#697"
