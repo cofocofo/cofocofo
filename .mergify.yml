@@ -8,6 +8,3 @@ pull_request_rules:
       assign:
         add_users:
           - "{{author}}"
-        label:
-          add:
-            - "#697"
