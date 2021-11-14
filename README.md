@@ -189,6 +189,15 @@
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/87874)
         * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-962463747)
     
+    * #### D13(토)
+
+      #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
+        
+        * Codeforces Round #697 (Div. 3)
+        * [Tutorials & Solutions](https://codeforces.com/blog/entry/87188)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-968087562)
+  
+
 ## # TODO
 
 ### 1️⃣ Virtual Codeforces Round 참가 전에
