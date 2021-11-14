@@ -13,7 +13,6 @@ using namespace std;
 #define endl '\n'
 #define len(x) (int)(x).length()
 #define size(x) (int)(x).size()
-typedef long long ll;
 
 // Set up : Global Variables
 /* None */
@@ -32,17 +31,21 @@ int main()
     int t; cin >> t;
 
     while (t--) {
-        ll n; cin >> n;
+        int n; cin >> n;
 
         // Process
-        while ((n&1) == 0) {
-            n >>= 1;
+        int q = n / 2020;  /* a + b */
+        int r = n % 2020;  /* b */
+
+        bool isPossible = false;
+        if (q >= r) {
+            isPossible = true;
+        } else if (q-1 >= r+2020) {
+            isPossible = true;
         }
 
-        bool isExist = (n != 1) && (n & 1);
-
         // Control : Output
-        cout << ((isExist) ? "YES" : "NO") << endl;
+        cout << ((isPossible) ? "YES" : "NO") << endl;
     }
 }
 
