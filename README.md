@@ -101,9 +101,9 @@
                 <img alt="손순철" src="https://avatars.githubusercontent.com/punsoo" width="100" />
             </a>
         </td>
-        <td align="center" width="100">
+        <td align="center" width="127">
         </td>
-        <td align="center" width="100">
+        <td align="center" width="127">
         </td>
     </tr>
     <tr>
