@@ -55,7 +55,7 @@
     <tr>
         <td align="center">서울 1반</td>
         <td align="center">서울 10반</td>
-        <td align="center">서울 10반</td>
+        <td align="center">싸탈</td>
     </tr>
     <tr>
         <td align="center">한승주</td>
@@ -91,6 +91,30 @@
         <td align="center">김서진</td>
         <td align="center">김승환</td>
         <td align="center">김주환</td>
+    </tr>
+</table>
+
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/punsoo">
+                <img alt="손순철" src="https://avatars.githubusercontent.com/punsoo" width="100" />
+            </a>
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">싸탈</td>
+        <td align="center"></td>
+        <td align="center"></td>
+    </tr>
+    <tr>
+        <td align="center">손순철</td>
+        <td align="center"></td>
+        <td align="center"></td>
     </tr>
 </table>
 
