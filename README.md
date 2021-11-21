@@ -196,7 +196,14 @@
         * Codeforces Round #697 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/87188)
         * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-968087562)
-  
+
+    * #### D20(토)
+
+      #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
+
+        * Codeforces Round #693 (Div. 3)
+        * [Tutorials & Solutions](https://codeforces.com/blog/entry/86406)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-974775642)
 
 ## # TODO
 
