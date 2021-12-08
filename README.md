@@ -55,7 +55,7 @@
     <tr>
         <td align="center">서울 1반</td>
         <td align="center">서울 10반</td>
-        <td align="center">서울 10반</td>
+        <td align="center">싸탈</td>
     </tr>
     <tr>
         <td align="center">한승주</td>
@@ -72,25 +72,25 @@
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/Panseung">
-                <img alt="김승환" src="https://avatars.githubusercontent.com/Panseung" width="100" />
+            <a href="https://github.com/juhwankim-dev">
+                <img alt="김주환" src="https://avatars.githubusercontent.com/juhwankim-dev" width="100" />
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/juhwankim-dev">
-                <img alt="김주환" src="https://avatars.githubusercontent.com/juhwankim-dev" width="100" />
+            <a href="https://github.com/punsoo">
+                <img alt="손순철" src="https://avatars.githubusercontent.com/punsoo" width="100" />
             </a>
         </td>
     </tr>
     <tr>
         <td align="center">부울경 3반</td>
-        <td align="center">광주 3반</td>
         <td align="center">구미 6반</td>
+        <td align="center">싸탈</td>
     </tr>
     <tr>
         <td align="center">김서진</td>
-        <td align="center">김승환</td>
         <td align="center">김주환</td>
+        <td align="center">손순철</td>
     </tr>
 </table>
 
@@ -172,6 +172,10 @@
 
 </details>
 
+<details>
+    <summary>2021/11</summary>
+
+
 * ### 2021/11
     * #### D2(토)
 
@@ -196,7 +200,29 @@
         * Codeforces Round #697 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/87188)
         * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-968087562)
+
+    * #### D20(토)
+
+      #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
+
+        * Codeforces Round #693 (Div. 3)
+        * [Tutorials & Solutions](https://codeforces.com/blog/entry/86406)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-974775642)
+
+    * #### D27(토)
   
+      #### ![break](https://img.shields.io/badge/break-green?style=for-the-badge)
+
+</details>
+
+* ### 2021/12
+    * #### D4(토)
+
+      #### ![virtual](https://img.shields.io/badge/virtual-purple?style=for-the-badge)
+
+        * Codeforces Round #690 (Div. 3)
+        * [Tutorials & Solutions](https://codeforces.com/blog/entry/85594)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-986224778)
 
 ## # TODO
 
