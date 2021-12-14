@@ -53,8 +53,8 @@
         </td>
     </tr>
     <tr>
-        <td align="center">서울 1반</td>
-        <td align="center">서울 10반</td>
+        <td align="center">싸탈</td>
+        <td align="center">싸탈</td>
         <td align="center">싸탈</td>
     </tr>
     <tr>
@@ -83,7 +83,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">부울경 3반</td>
+        <td align="center">싸탈</td>
         <td align="center">구미 6반</td>
         <td align="center">싸탈</td>
     </tr>
