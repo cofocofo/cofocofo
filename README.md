@@ -223,6 +223,12 @@
         * Codeforces Round #690 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/85594)
         * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-986224778)
+        
+    * #### D11(토)
+
+        * Codeforces Round #686 (Div. 3)
+        * [Tutorials & Solutions](https://codeforces.com/blog/entry/84984)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-991666976)
 
 ## # TODO
 
