@@ -23,7 +23,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">싸탈/td>
+        <td align="center">싸탈</td>
         <td align="center">구미 6반</td>
         <td align="center">구미 6반</td>
     </tr>
