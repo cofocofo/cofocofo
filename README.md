@@ -106,7 +106,7 @@
 
         * Codeforces Round #739 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/94009)
-        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932934405)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/80#issuecomment-1003665255)
 
     * #### D26(일)
 
@@ -114,7 +114,7 @@
 
         * Codeforces Round #734 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/93149)
-        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932934549)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/80#issuecomment-1003665264)
 
     * #### D28(화)
 
@@ -122,7 +122,7 @@
 
         * Codeforces round #744 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/95447)
-        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932934609)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/80#issuecomment-1003665273)
 
 </details>
 
@@ -136,7 +136,7 @@
     
     * Codeforces Round #731 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/92715)
-    * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-932937052)
+    * [Scores](https://github.com/cofocofo/cofocofo/issues/81#issuecomment-1003665377)
     
   * #### D10(일)
 
@@ -144,7 +144,7 @@
 
     * Codeforces Round #725 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/91637)
-    * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-939500812)
+    * [Scores](https://github.com/cofocofo/cofocofo/issues/81#issuecomment-1003665380)
 
   * #### D16(토)
 
@@ -152,7 +152,7 @@
     
     * Codeforces Round #719 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/90342)
-    * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-944901759)
+    * [Scores](https://github.com/cofocofo/cofocofo/issues/81#issuecomment-1003665386)
   
   * #### D24(일)
 
@@ -160,7 +160,7 @@
   
     * Codeforces Round #713 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/89535)
-    * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-950316084)
+    * [Scores](https://github.com/cofocofo/cofocofo/issues/81#issuecomment-1003665398)
 
   * #### D30(토)
 
@@ -168,7 +168,7 @@
 
     * Codeforces Round #710 (Div. 3)
     * [Tutorials & Solutions](https://codeforces.com/blog/entry/89007)
-    * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-955321623)
+    * [Scores](https://github.com/cofocofo/cofocofo/issues/81#issuecomment-1003665404)
 
 </details>
 
@@ -183,7 +183,7 @@
 
         * Codeforces Round #731 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/96604)
-        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-958774181)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/82#issuecomment-1003665419)
         
     * #### D6(토)
 
@@ -191,7 +191,7 @@
         
         * Codeforces Round #702 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/87874)
-        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-962463747)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/82#issuecomment-1003665425)
     
     * #### D13(토)
 
@@ -199,7 +199,7 @@
         
         * Codeforces Round #697 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/87188)
-        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-968087562)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/82#issuecomment-1003665437)
 
     * #### D20(토)
 
@@ -207,13 +207,16 @@
 
         * Codeforces Round #693 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/86406)
-        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-974775642)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/82#issuecomment-1003665449)
 
     * #### D27(토)
   
       #### ![break](https://img.shields.io/badge/break-green?style=for-the-badge)
 
 </details>
+
+<details>
+    <summary>2021/12</summary>
 
 * ### 2021/12
     * #### D4(토)
@@ -222,14 +225,35 @@
 
         * Codeforces Round #690 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/85594)
-        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-986224778)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/83#issuecomment-1003665469)
         
     * #### D11(토)
 
         * Codeforces Round #686 (Div. 3)
         * [Tutorials & Solutions](https://codeforces.com/blog/entry/84984)
-        * [Scores](https://github.com/cofocofo/cofocofo/issues/19#issuecomment-991666976)
+        * [Scores](https://github.com/cofocofo/cofocofo/issues/83#issuecomment-1003665473)
+      
+    * #### D18(토)
 
+        * Goodbye 2021~~~
+    
+    * #### D25(토)
+  
+        * ![break](https://img.shields.io/badge/break-green?style=for-the-badge)
+
+</details>
+
+* ### 2022/01
+  * #### D1(토)
+
+      * ![break](https://img.shields.io/badge/break-green?style=for-the-badge)
+  
+  * #### D5(수)
+
+      * Codeforces Round #677 (Div. 3)
+      * [Tutorials & Solutions](https://codeforces.com/blog/entry/83903)
+      * [Scores](https://github.com/cofocofo/cofocofo/issues/84#issuecomment-1003666832)
+  
 ## # TODO
 
 ### 1️⃣ Virtual Codeforces Round 참가 전에
