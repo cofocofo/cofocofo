@@ -254,6 +254,8 @@
       * [Tutorials & Solutions](https://codeforces.com/blog/entry/83903)
       * [Scores](https://github.com/cofocofo/cofocofo/issues/84#issuecomment-1003666832)
 
+## # Guide
+
 <details>
     <summary>TODO (재정비 필요)</summary>
 </details>
