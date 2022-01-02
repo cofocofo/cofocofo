@@ -253,76 +253,13 @@
       * Codeforces Round #677 (Div. 3)
       * [Tutorials & Solutions](https://codeforces.com/blog/entry/83903)
       * [Scores](https://github.com/cofocofo/cofocofo/issues/84#issuecomment-1003666832)
-  
-## # TODO
 
-### 1️⃣ Virtual Codeforces Round 참가 전에
+<details>
+    <summary>TODO (재정비 필요)</summary>
+</details>
 
-> `코포코포` 디스코드 채널의  
-> `공지공지` 채팅채널 에서  
-> 스터디 참가 날짜의 참가여부를  
-> 이모지로 반응해주세요!!!
-
-![img.png](img/emoji_reaction.png)
-
-### 2️⃣ Virtual Codeforces Round 참가 중에
-
-> `코포코포` 디스코드 채널의  
-> `버츄버츄` 음성채널 에서  
-> 본인의 문제 푸는 화면을  
-> 공유해주세요!!!
-
-![img.png](img/screen_share.png)
-
-### 3️⃣ Virtual Codeforces Round 참가 후에
-
-> `코포코포` 디스코드 채널의  
-> `공지공지` 채팅채널 에서  
-> 참가 및 푼 문제(대회 끝난 이후에 푼 문제도 포함)를  
-> 이모지로 반응해주세요!!!
-
-![img.png](img/emoji_participate_log.png)
-
-> `코포코포` 깃헙(GitHub) 에서  
-> 다른 사람이 올린 풀리퀘(Pull Request) 에  
-> 리뷰(Review) 를 달아주세요!!!
-
-![img.png](img/github_review.png)
-
-### 4️⃣ Virtual Codeforces Round 리뷰 중에
-
-> `코포코포` 디스코드 채널의  
-> `공지공지` 채팅채널 에서  
-> 참가를
-> 이모지로 반응해주세요!!!
-
-![img.png](img/emoji_review_log.png)
-
-### 5️⃣ Virtual Codeforces Round 리뷰 후에
-
-> `코포코포` 깃헙(GitHub) 에서  
-> 이슈스(Issues) 의 `Scores` 에  
-> 본인의 성적을  
-> 업데이트해주세요!!!
-
-![img.png](img/issues_score.png)
-
-> `코포코포` 깃헙(GitHub) 에서  
-> 이번주에 참가한 코포 라운드(Codeforces Round) 의 자신이 풀었던 코드를  
-> 새로 판 브랜치(branch) 에 담아
-> 다음주 월요일 SSAFY 입실체크 전까지
-> 풀리퀘(Pull Request) 를 보내주세요!!!
-
-![img.png](img/github_pr.png)
-
-### 6️⃣ 다음 Virtual Codeforces Round 참가 전까지
-
-> `코포코포` 깃헙(GitHub) 에서
-> 다른 사람이 올린 풀리퀘(Pull Request) 에
-> 금요일 SSAFY 입실체크 전까지
-> 코멘트(Comment) 를 달아주세요!!!
-
-![img.png](img/github_pr_comment.png)
+<details>
+    <summary>Code Submit (재정비 필요)</summary>
 
 ## # Code Submit
 
@@ -360,6 +297,10 @@
 12. Pull Request 가 올라가는 것을 확인하면 성공!
     * GitHub Repo 에서 Pull requests 탭을 누르면 본인의 PR 확인 가능합니다!
 
+</details>
+
+<details>
+    <summary>Feedback (재정비 필요)</summary>
 ### Feedback
 
 1. Repo 상단의 Pull requests 에서 다른 분들의 Pull Request 를 확인하실 수 있습니다
@@ -382,3 +323,5 @@
 개발자라면 응당 적정수준의 Git 실력이 필요합니다.  
 Git 이 익숙치 않다면 아래의 Git Tutorial 로 같이 시작해봐요! 
 * https://git-scm.com/book/ko/v2
+
+</details>
